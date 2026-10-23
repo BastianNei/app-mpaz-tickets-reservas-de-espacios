@@ -10,7 +10,7 @@ En el colegio todo se pide hablando directamente con el encargado de TI o con lo
 * No hay forma de priorizar lo urgente de lo que puede esperar.
 * Los profesores y funcionarios no tienen como saber en que estado va su solicitud.
 
-## La Solucion
+## La Solucion al problema
 
 Crear la app movil **MPAZ Ticket** para que:
 * **Los funcionarios** puedan crear un ticket reportando la falla (categoria, ubicacion, descripcion y foto opcional) y ver en que estado va (pendiente, en proceso, resuelto, etc.).

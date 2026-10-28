@@ -1,6 +1,8 @@
 # Proyecto MPAZ Ticket - Colegio Marcela Paz
 Repositorio del proyecto semestral para el Colegio Marcela Paz. La idea es reemplazar los avisos de pasillo y reclamos de palabra por una app móvil donde se puedan reportar fallas y gestionar reservas de espacios de manera digital y ordenada.
+
 ---
+
 # Caso de Estudio y Contexto
 Este proyecto fue desarrollado en el contexto de una solución tecnológica orientada a optimizar la gestión de espacios educativos comunes y la administración de requerimientos internos en la institución educativa. Tradicionalmente, los procesos se realizaban de manera informal (hablando directamente o con avisos de pasillo), lo que provocaba desorden, superposición de horarios y falta de trazabilidad.
 

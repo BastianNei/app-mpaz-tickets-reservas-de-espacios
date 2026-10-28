@@ -11,7 +11,9 @@ La aplicación está construida nativamente para Android utilizando Jetpack Comp
 Personal Solicitante (Profesores y Docentes): Permite explorar el catálogo de espacios, verificar disponibilidad, enviar reservas detalladas (curso, cantidad de alumnos, actividad), hacer seguimiento de peticiones y consultar documentos normativos en formato PDF.
 
 Inspectoría General / TI: Panel administrativo para aprobar, rechazar o editar solicitudes, bloquear recintos por mantenimiento preventivo y gestionar informes institucionales.
+
 ---
+
 #El Problema
 En el colegio todo se pide hablando directamente con el encargado de TI o con los auxiliares. Esto genera varios problemas:
 
@@ -24,7 +26,9 @@ No hay forma de priorizar lo urgente de lo que puede esperar.
 Los profesores y funcionarios no tienen cómo saber en qué estado va su solicitud.
 
 Superposición de horarios y reservas de espacios sin coordinación previa con la administración.
+
 ---
+
 # La Solución al Problema
 Crear la app móvil MPAZ Ticket para que:
 
@@ -36,14 +40,18 @@ El equipo administrativo cuente con una limpieza automática de solicitudes resu
 
 Lo que llevamos hecho en la app (Kotlin / Jetpack Compose)
 Actualmente tenemos armada y sincronizada la estructura completa de la interfaz, la persistencia en la nube y la navegación por roles en Android:
+
 ---
+
 # Navegacion y Roles
 Sistema de autenticación seguro con registro validado de RUT chileno, dominios institucionales (@gmail.com) y requisitos estrictos de contraseña.
 
 Selector y persistencia local de sesión para cambiar entre el rol de Solicitante e Inspectoría.
 
 Barras de navegación superiores e inferiores adaptadas dinámicamente según el perfil actual, incorporando contadores en tiempo real para novedades y peticiones pendientes.
+
 ---
+
 # Pantallas y Funcionalidades Implementadas
 Solicitante:
 

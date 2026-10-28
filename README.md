@@ -14,7 +14,7 @@ Inspectoría General / TI: Panel administrativo para aprobar, rechazar o editar 
 
 ---
 
-#El Problema
+# El Problema
 En el colegio todo se pide hablando directamente con el encargado de TI o con los auxiliares. Esto genera varios problemas:
 
 No hay registro de cuándo se solicitó la mantención ni quién la pidió.
